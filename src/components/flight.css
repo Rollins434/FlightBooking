@@ -40,3 +40,12 @@
 .spanHide{
     display: none;
 }
+
+@media all and (max-width:600px){
+    .card{
+        width: 90%;
+        display: block;
+    }
+    
+
+  }
