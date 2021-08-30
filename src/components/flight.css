@@ -1,0 +1,42 @@
+.card{
+    /* background-color: beige; */
+    width: 600px;
+    display: flex;
+    box-shadow: 0 0.21rem #f2f2f2;
+}
+
+.card_hero{
+   flex: 0 0 50%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card_img{
+    display: block;
+    width: 80%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card_button{
+    padding:5;
+    width: 100px;
+    margin-bottom: 6px;
+    margin-top: 6px;
+    
+}
+
+.card_content{
+    flex:1;
+    padding:35px 35px 25px 35px;
+    position: relative;
+}
+
+.spanShow{
+    display: block;
+}
+.spanHide{
+    display: none;
+}

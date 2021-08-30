@@ -1,0 +1,134 @@
+[
+  {
+    "flight_code": "AI-203",
+    "origin_city": "Pune",
+    "destination_city": "Delhi",
+    "origin_city_code": "PNQ",
+    "destination_city_code": "DEL",
+    "departure_date_time": "10:00,02:01:2012",
+    "arrive_date_time": "12:00,02:01:2012",
+    "available_seat": "10",
+    "price": "5428.00"
+  },
+  {
+    "flight_code": "AI-200",
+    "origin_city": "Delhi",
+    "destination_city": "Pune",
+    "origin_city_code": "DEL",
+    "destination_city_code": "PNQ",
+    "departure_date_time": "11:00,02:01:2012",
+    "arrive_date_time": "15:00,02:01:2012",
+    "available_seat": "50",
+    "price": "3215.00"
+  },
+  {
+    "flight_code": "AI-221",
+    "origin_city": "Pune",
+    "destination_city": "Delhi",
+    "origin_city_code": "PNQ",
+    "destination_city_code": "DEL",
+    "departure_date_time": "12:00,02:01:2012",
+    "arrive_date_time": "15:00,02:01:2012",
+    "available_seat": "21",
+    "price": "5415.00"
+  },
+  {
+    "flight_code": "AI-205",
+    "origin_city": "Delhi",
+    "destination_city": "Pune",
+    "origin_city_code": "DEL",
+    "destination_city_code": "PNQ",
+    "departure_date_time": "01:00,02:01:2012",
+    "arrive_date_time": "05:00,02:01:2012",
+    "available_seat": "25",
+    "price": "5674.00"
+  },
+  {
+    "flight_code": "AI-208",
+    "origin_city": "Bhopal",
+    "destination_city": "Kanpur",
+    "origin_city_code": "BHO",
+    "destination_city_code": "KNU",
+    "departure_date_time": "02:00,02:02:2012",
+    "arrive_date_time": "07:00,02:02:2012",
+    "available_seat": "45",
+    "price": "8745.00"
+  },
+  {
+    "flight_code": "AI-211",
+    "origin_city": "Bangalore",
+    "destination_city": "Patna",
+    "origin_city_code": "BLR",
+    "destination_city_code": "PAT",
+    "departure_date_time": "03:00,02:02:2012",
+    "arrive_date_time": "06:00,02:02:2012",
+    "available_seat": "85",
+    "price": "1532.00"
+  },
+  {
+    "flight_code": "AI-103",
+    "origin_city": "Pune",
+    "destination_city": "Delhi",
+    "origin_city_code": "PNQ",
+    "destination_city_code": "DEL",
+    "departure_date_time": "10:00,02:02:2012",
+    "arrive_date_time": "12:00,02:02:2012",
+    "available_seat": "10",
+    "price": "5428.00"
+  },
+  {
+    "flight_code": "AI-100",
+    "origin_city": "Delhi",
+    "destination_city": "Pune",
+    "origin_city_code": "DEL",
+    "destination_city_code": "PNQ",
+    "departure_date_time": "11:00,02:02:2012",
+    "arrive_date_time": "15:00,02:02:2012",
+    "available_seat": "50",
+    "price": "3215.00"
+  },
+  {
+    "flight_code": "AI-111",
+    "origin_city": "Pune",
+    "destination_city": "Delhi",
+    "origin_city_code": "PNQ",
+    "destination_city_code": "DEL",
+    "departure_date_time": "12:00,02:02:2012",
+    "arrive_date_time": "15:00,02:01:2012",
+    "available_seat": "21",
+    "price": "5415.00"
+  },
+  {
+    "flight_code": "AI-105",
+    "origin_city": "Delhi",
+    "destination_city": "Pune",
+    "origin_city_code": "DEL",
+    "destination_city_code": "PNQ",
+    "departure_date_time": "01:00,01:02:2012",
+    "arrive_date_time": "05:00,01:02:2012",
+    "available_seat": "25",
+    "price": "5674.00"
+  },
+  {
+    "flight_code": "AI-108",
+    "origin_city": "Kanpur",
+    "destination_city": "Bhopal",
+    "origin_city_code": "KNU",
+    "destination_city_code": "BHO",
+    "departure_date_time": "02:00,02:01:2012",
+    "arrive_date_time": "07:00,02:01:2012",
+    "available_seat": "45",
+    "price": "8745.00"
+  },
+  {
+    "flight_code": "AI-311",
+    "origin_city": "Patna",
+    "destination_city": "Bangalore",
+    "origin_city_code": "PAT",
+    "destination_city_code": "BLR",
+    "departure_date_time": "03:00,02:01:2012",
+    "arrive_date_time": "06:00,02:01:2012",
+    "available_seat": "85",
+    "price": "1532.00"
+  }
+]

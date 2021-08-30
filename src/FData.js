@@ -1,0 +1,86 @@
+const FData = [
+  {
+    _id: "1",
+    flight_code: "AI-203",
+    origin_city: "Pune",
+    destination_city: "Delhi",
+    origin_city_code: "PNQ",
+    destination_city_code: "DEL",
+    departure_date: "2021-09-30",
+    arrival_date: "2021-09-2",
+    available_seat: "10",
+    depart_time:"02:00 PM",
+    arrival_time:"06:00 PM",
+    price: 5428.00,
+    image:
+      "https://media.istockphoto.com/photos/passenger-airplane-flying-above-clouds-during-sunset-picture-id155439315?k=20&m=155439315&s=612x612&w=0&h=BvXCpRLaP5h1NnvyYI_2iRtSM0Xsz2jQhAmZ7nA7abA=",
+  },
+  {
+    _id: "2",
+    flight_code: "AI-200",
+    origin_city: "Delhi",
+    destination_city: "Pune",
+    origin_city_code: "DEL",
+    destination_city_code: "PNQ",
+    departure_date: "2021-09-30",
+    arrival_date: "2021-10-3",
+    available_seat: "50",
+    depart_time:"06:00 PM",
+    arrival_time:"09:00 PM",
+    price: 3215.00,
+    image:
+      "https://media.istockphoto.com/photos/passenger-airplane-flying-above-clouds-during-sunset-picture-id155439315?k=20&m=155439315&s=612x612&w=0&h=BvXCpRLaP5h1NnvyYI_2iRtSM0Xsz2jQhAmZ7nA7abA=",
+  },
+  {
+    _id: "3",
+    flight_code: "AI-205",
+    origin_city: "Delhi",
+    destination_city: "Pune",
+    origin_city_code: "DEL",
+    destination_city_code: "PNQ",
+    departure_date: "2021-09-30",
+    arrival_date: "2021-10-12",
+    available_seat: "25",
+    depart_time:"01:00 PM",
+    arrival_time:"03:00 PM",
+    price: 5674.00,
+    image:
+      "https://media.istockphoto.com/photos/passenger-airplane-flying-above-clouds-during-sunset-picture-id155439315?k=20&m=155439315&s=612x612&w=0&h=BvXCpRLaP5h1NnvyYI_2iRtSM0Xsz2jQhAmZ7nA7abA=",
+  },
+  {
+    _id: "4",
+    flight_code: "AI-108",
+    origin_city: "Kanpur",
+    destination_city: "Bhopal",
+    origin_city_code: "KNU",
+    destination_city_code: "BHO",
+    departure_date: "2021-08-30",
+    arrival_date: "2021-08-31",
+    available_seat: "45",
+    price: 8745.00,
+    depart_time:"01:00 AM",
+    arrival_time:"03:00 AM",
+    image:
+      "https://media.istockphoto.com/photos/passenger-airplane-flying-above-clouds-during-sunset-picture-id155439315?k=20&m=155439315&s=612x612&w=0&h=BvXCpRLaP5h1NnvyYI_2iRtSM0Xsz2jQhAmZ7nA7abA=",
+  },
+  {
+    _id: "5",
+
+    flight_code: "AI-311",
+    origin_city: "Patna",
+    destination_city: "Bangalore",
+    origin_city_code: "PAT",
+    destination_city_code: "BLR",
+    departure_date: "2021-08-30",
+    arrival_date: "2021-08-30",
+    available_seat: "85",
+    price: 1532.00,
+    depart_time:"01:00 PM",
+    arrival_time:"03:00 PM",
+    image:
+      "https://media.istockphoto.com/photos/passenger-airplane-flying-above-clouds-during-sunset-picture-id155439315?k=20&m=155439315&s=612x612&w=0&h=BvXCpRLaP5h1NnvyYI_2iRtSM0Xsz2jQhAmZ7nA7abA=",
+  },
+  
+];
+
+export default FData;

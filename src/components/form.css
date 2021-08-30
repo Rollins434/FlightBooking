@@ -1,0 +1,136 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    margin-top:8rem;
+    position: relative;
+}
+
+div1{
+    order: 1;
+    margin-right: 1rem;
+   
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+input{
+    padding:10px;
+    margin:4px;
+}
+button{
+    padding:5px;
+    width: 100px;
+    margin-left: 3rem;
+    cursor: pointer;
+}
+.button_container{
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top:-1.7rem;
+}
+.button1{
+    margin-left: 0rem;
+    width: 82px;
+    cursor: pointer;
+    margin-right: 4px;
+}
+.button2{
+    margin-left: 0rem;
+    width: 82px;
+    cursor: pointer;
+}
+.div2{
+    order: 2;
+    margin-left:1.8rem;
+}
+
+
+.pass{
+    display: none;
+}
+.pass_active{
+display: block;
+}
+
+.slider{
+    display: flex;
+    align-items: center;
+    flex-direction: column-reverse;
+    align-items: center;
+    border-radius: 5px;
+    padding: 5px 5px;
+    box-shadow: 0px 0px 5px rgb(0 0 0 / 10%);
+    margin-top: 8px;
+}
+
+/* tabbing */
+
+.tabs {
+
+    padding: 15px;
+    text-align: center;
+    width: 50%;
+    background: rgba(128, 128, 128, 0.075);
+    cursor: pointer;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.274);
+    box-sizing: content-box;
+    position: relative;
+    outline: none;
+  }
+  .tabs:not(:last-child){
+    border-right: 1px solid rgba(0, 0, 0, 0.274);
+  }
+  
+  .active-tabs  {
+    background: white;
+    border-bottom: 1px solid transparent;
+  }
+  
+  .active-tabs::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: -5px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: calc(100% + 2px);
+    height: 5px;
+    background: rgb(88, 147, 241);
+  }
+  
+  
+  
+  button {
+    border: none;
+    
+  }
+  .content-tabs {
+    flex-grow : 1;
+  }
+  .content {
+    background: white;
+    padding: 20px;
+    width: 100%;
+    height: 100%;
+    display: none;
+  }
+  .content h2 {
+    padding: 0px 0 5px 0px;
+  }
+  .content hr {
+    width: 100px;
+    height: 2px;
+    background: #222;
+    margin-bottom: 5px;
+  }
+  .content p {
+    width: 100%;
+    height: 100%;
+  }
+  .active-content {
+    display: block;
+  }
